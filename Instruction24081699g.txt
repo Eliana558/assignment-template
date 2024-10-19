@@ -1,0 +1,10 @@
+Dear Professor Gio.
+Here's my instruction.(^∀＾●)
+    '''
+    Enter mbti and age, then randomly generate music.
+    Type E MBTI: extroverted type, will generate D major and A major, generating warmer type of music; 
+    Type I MBTI: introverted type, will generate C major and E major, more serene type of music.
+    Younger ages will generate faster music and vice versa.
+    '''
+
+ 
